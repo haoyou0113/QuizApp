@@ -1,0 +1,13 @@
+.title {
+  margin-top: 10%;
+  font-size: 5rem;
+  color: #ffffff;
+}
+
+.toggle {
+  width: 20rem;
+  height: 3rem;
+  border-radius: 1rem;
+  font-size: 1.5rem;
+  margin-top: 10rem;
+}

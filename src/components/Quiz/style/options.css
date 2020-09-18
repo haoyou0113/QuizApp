@@ -1,0 +1,31 @@
+.options {
+  padding: 5rem;
+  position: absolute;
+  top: 15rem;
+  left: 50%;
+  transform: translateX(-50%);
+}
+.options button > span {
+  font-size: 1rem;
+  font-weight: 500;
+}
+.options > button {
+  height: 2.5rem;
+  width: 15rem;
+  margin: 1rem;
+  border-radius: 0.5rem;
+}
+.options > div {
+  position: absolute;
+  bottom: -5rem;
+  left: 50%;
+  transform: translateX(-50%);
+}
+.options > div > button {
+  border-radius: 0.5rem;
+  height: 4rem;
+}
+.hintNum {
+  color: red;
+  font-size: 2rem;
+}

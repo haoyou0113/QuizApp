@@ -1,0 +1,71 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "question": "Grand Central Terminal, Park Avenue, New York is the world's",
+      "correct_answer": "largest railway station",
+      "incorrect_answers": [
+        "highest railway station",
+        "longest railway station",
+        "None of the above"
+      ]
+    },
+    {
+      "question": "First human heart transplant operation conducted by Dr. Christiaan Barnard on Louis Washkansky, was conducted in",
+      "correct_answer": "1967",
+      "incorrect_answers": ["1968", "1958", "1922"]
+    },
+    {
+      "question": "Eritrea, which became the 182nd member of the UN in 1993, is in the continent of",
+      "correct_answer": "Africa",
+      "incorrect_answers": ["Asia", "Europe", "Australia"]
+    },
+    {
+      "question": "Garampani sanctuary is located at",
+      "correct_answer": "Diphu, Assam",
+      "incorrect_answers": [
+        "Kohima, Nagaland",
+        "Junagarh, Gujarat",
+        "Gangtok, Sikkim"
+      ]
+    },
+    {
+      "question": "Hitler party which came into power in 1933 is known as",
+      "correct_answer": "Nazi Party",
+      "incorrect_answers": ["Labour Party", "Ku-Klux-Klan", "Democratic Party"]
+    },
+    {
+      "question": "Golf player Vijay Singh belongs to which country?",
+      "correct_answer": "Fiji",
+      "incorrect_answers": ["USA", "India", "UK"]
+    },
+    {
+      "question": "Fastest shorthand writer was",
+      "correct_answer": "Dr. G. D. Bist",
+      "incorrect_answers": ["J.R.D. Tata", "J.M. Tagore", "Khudada Khan"]
+    },
+    {
+      "question": "What does LTS stand for in the software market?",
+      "correct_answer": "Long Term Support",
+      "incorrect_answers": [
+        "Long Taco Service",
+        "Ludicrous Transfer Speed",
+        "Ludicrous Turbo Speed"
+      ]
+    },
+    {
+      "question": "This mobile OS held the largest market share in 2012.",
+      "correct_answer": "iOS",
+      "incorrect_answers": ["Android", "BlackBerry", "Symbian"]
+    },
+    {
+      "question": "What does the computer software acronym JVM stand for?",
+      "correct_answer": "Java Virtual Machine",
+      "incorrect_answers": [
+        "Java Vendor Machine",
+        "Java Visual Machine",
+        "Just Virtual Machine"
+      ]
+    }
+  ]
+}

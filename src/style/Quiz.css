@@ -1,0 +1,6 @@
+.quizContainer {
+  padding: 5%;
+}
+.quizContainer > div:first-child {
+  margin: 3%;
+}
