@@ -21,9 +21,7 @@ const Quiz = () => {
     correct_answer: item.correct_answer,
     incorrect_answers: item.incorrect_answers,
   }));
-  console.log('gameOver', gameOver);
-  console.log('Loading', loading);
-  console.log('Viewed', Viewed);
+
   useEffect(() => {
     if (result === true) {
       setRightAnswer(rightAnswer + 1);

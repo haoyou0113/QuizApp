@@ -8,7 +8,9 @@ export default function QuizToggle(props) {
     //get question data after click start
     try {
       setLoading(true);
-      const incomingData = await Axios.get(`/api/questions.json`);
+      const incomingData = await Axios.get(
+        `https://run.mocky.io/v3/52f2bec8-450c-469f-b339-f34314cd0826`
+      );
       setQuestionData(incomingData.data.results);
       setLoading(false);
     } catch (err) {
